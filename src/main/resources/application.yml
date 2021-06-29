@@ -5,11 +5,11 @@ server:
   servlet:
     context-path: /security
 
-spring:
-  security:
-    user:
-      name: ming
-      password: ming
+#spring:
+#  security:
+#    user:
+#      name: ming
+#      password: ming
 
 
 
